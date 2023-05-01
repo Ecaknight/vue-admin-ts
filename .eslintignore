@@ -1,0 +1,10 @@
+public
+dist
+node_modules
+src/_common
+static
+cypress
+script/test/cypress
+temp*
+static/
+!.prettierrc.js
